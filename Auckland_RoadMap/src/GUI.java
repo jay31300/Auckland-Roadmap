@@ -38,7 +38,6 @@ import javax.swing.text.DefaultCaret;
  * this course, but it would be to your benefit if you took some time to
  * understand how this class works.
  * 
- * @author tony
  */
 public abstract class GUI {
 	/**
