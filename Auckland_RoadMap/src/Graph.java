@@ -13,7 +13,6 @@ import java.util.Map;
  * segments, as well as some information on which nodes and segments should be
  * highlighted.
  * 
- * @author tony
  */
 public class Graph {
 	// map node IDs to Nodes.
